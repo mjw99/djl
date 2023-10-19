@@ -4,5 +4,6 @@ Run with:
 
 ```bash
     mvn package exec:java -Dexec.mainClass="name.mjw.djl.Example"
+    mvn package exec:java -Dexec.mainClass="name.mjw.djl.SimpleLinearRegressionModel"
 ```
 
