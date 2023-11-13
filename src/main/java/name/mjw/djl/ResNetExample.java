@@ -21,7 +21,7 @@ import ai.djl.training.util.ProgressBar;
 import ai.djl.translate.TranslateException;
 import ai.djl.translate.Translator;
 
-public class Example {
+public class ResNetExample {
 
 	public static void main(String[] args)
 			throws ModelNotFoundException, MalformedModelException, IOException, TranslateException {
